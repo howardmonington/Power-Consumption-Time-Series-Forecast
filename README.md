@@ -22,3 +22,6 @@ The purpose of this project is to experiment with using neural networks for time
 
 ## Project Description
 For this project, my goal was to learn how I could apply neural networks to time series forecasting problems. I experimented with different types of neural network architectures such as DNN's and RNN's in order to compare performance and gain a better understanding of how neural networks can be applied to time series data using TensorFlow.
+
+### Dataset Location
+The Raw Data can be found [here](https://www.kaggle.com/uciml/electric-power-consumption-data-set)
